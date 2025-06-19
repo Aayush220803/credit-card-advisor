@@ -1,0 +1,27 @@
+# Byte-compiled / virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.env
+*.DS_Store
+
+# Node.js
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# Vite
+frontend/.vite
+
+# Logs
+*.log
+
+# Python cache
+*.pyo
+*.pyd
+*.pyc
+
+# VSCode
+.vscode/
